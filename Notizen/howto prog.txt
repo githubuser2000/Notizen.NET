@@ -1,0 +1,15 @@
+Notizen.Baum.:
+
+Tabellen können enthalten sein
+Die Cursor-Handle-Nummer ist ... möglich
+DataBindings - Daten-Anbindungen
+GetChildAtPoint Drawingpoint ; GetNodeAt Drawingpoint
+HasChildren für Steuerelemente
+
+Stefan:
+Funktion:"wenn (Unter-)Verzeichnis, gehe hinein; schaue nächstes Element"
+
+Mouseclick Baum:
+Baum_NodeMouseClick
+Baum_KeyUp
+Baum_MouseClick

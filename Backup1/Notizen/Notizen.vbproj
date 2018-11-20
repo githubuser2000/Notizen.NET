@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E5DBF786-CA8E-49FE-8462-618FB8912CC6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Notizen.My.MyApplication</StartupObject>
+    <RootNamespace>Notizen</RootNamespace>
+    <AssemblyName>Notizen</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>8E42DEFDB43AD0904B27C19E6A07496F6AF7DE00</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Notizen_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <TargetZone>LocalIntranet</TargetZone>
+    <SignManifests>true</SignManifests>
+    <ApplicationIcon>Notizen.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>kuchen.pfx</AssemblyOriginatorKeyFile>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <PublishUrl>C:\Users\Admin\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>http://localhost/Notizen/</UpdateUrl>
+    <ApplicationRevision>5</ApplicationRevision>
+    <ApplicationVersion>1.9.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Notizen.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Notizen.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.Shell32, Version=1.0.0.0, Culture=neutral, PublicKeyToken=699daf297dafde4a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Interop.Shell32.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="info_help_and_feedback.Designer.vb">
+      <DependentUpon>info_help_and_feedback.vb</DependentUpon>
+    </Compile>
+    <Compile Include="info_help_and_feedback.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Baum.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Baum_Kontext_.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="desknote_kontext.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="desknote_kontext_opacy.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="einstellungen.Designer.vb">
+      <DependentUpon>einstellungen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="einstellungen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fontsize.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ftpkram.designer.vb">
+      <DependentUpon>ftpkram.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ftpkram.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="languages.vb" />
+    <Compile Include="Modul.vb" />
+    <Compile Include="passwort_dialog.Designer.vb">
+      <DependentUpon>passwort_dialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="passwort_dialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="passwort_dialog2.Designer.vb">
+      <DependentUpon>passwort_dialog2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="passwort_dialog2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inhalt.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="wecker.Designer.vb">
+      <DependentUpon>wecker.vb</DependentUpon>
+    </Compile>
+    <Compile Include="wecker.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wanna_restart.Designer.vb">
+      <DependentUpon>wanna_restart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="wanna_restart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notizen.Designer.vb">
+      <DependentUpon>Notizen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Notizen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="desknote.Designer.vb">
+      <DependentUpon>desknote.vb</DependentUpon>
+    </Compile>
+    <Compile Include="desknote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="suche.Designer.vb">
+      <DependentUpon>suche.vb</DependentUpon>
+    </Compile>
+    <Compile Include="suche.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wanna_save.Designer.vb">
+      <DependentUpon>wanna_save.vb</DependentUpon>
+    </Compile>
+    <Compile Include="wanna_save.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kontext_inhalt.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Datei.vb" />
+    <Compile Include="CText.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="notifyicon.vb" />
+    <Compile Include="suchergebnisse.vb" />
+    <Compile Include="xml_kram.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="info_help_and_feedback.resx">
+      <DependentUpon>info_help_and_feedback.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baum.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Baum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="desknote_kontext.resx">
+      <DependentUpon>desknote_kontext.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="einstellungen.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>einstellungen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ftpkram.resx">
+      <DependentUpon>ftpkram.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kontext_inhalt.resx">
+      <DependentUpon>kontext_inhalt.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notizen.af.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Notizen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notizen.ar-BH.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Notizen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notizen.ar-DZ.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Notizen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notizen.ar-EG.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Notizen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notizen.de-DE.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Notizen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notizen.de.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Notizen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notizen.en.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Notizen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notizen.resx">
+      <DependentUpon>Notizen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="desknote.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>desknote.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notizen.zh-CHS.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Notizen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="passwort_dialog.resx">
+      <DependentUpon>passwort_dialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="passwort_dialog2.resx">
+      <DependentUpon>passwort_dialog2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="suche.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>suche.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wecker.resx">
+      <DependentUpon>wecker.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wanna_restart.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>wanna_restart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wanna_save.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>wanna_save.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <BaseApplicationManifest Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="howto prog.txt" />
+    <Content Include="Notizen.ico" />
+    <None Include="kuchen.pfx" />
+    <None Include="Notizen_TemporaryKey.pfx" />
+    <None Include="Resources\a.bmp" />
+    <None Include="Resources\aa.bmp" />
+    <None Include="Resources\bb.bmp" />
+    <Content Include="Resources\einfueg.bmp" />
+    <Content Include="Resources\o5.bmp" />
+    <None Include="Resources\del.bmp" />
+    <None Include="Resources\o4.bmp" />
+    <None Include="Resources\o3.bmp" />
+    <None Include="Resources\o2.bmp" />
+    <None Include="Resources\o1.bmp" />
+    <None Include="Resources\neu.GIF" />
+    <None Include="Resources\oeffnen.GIF" />
+    <None Include="Resources\schliessen.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="howto prog.txt">
+      <Visible>False</Visible>
+      <PublishState>Exclude</PublishState>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <FileType>File</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

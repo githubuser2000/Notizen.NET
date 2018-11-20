@@ -1,0 +1,87 @@
+Imports System
+Imports System.Drawing
+Imports System.Windows.Forms
+
+Public NotInheritable Class baum_kontext
+    Inherits System.Windows.Forms.Form
+
+    Private wahl As Short
+    Friend WithEvents SaveFileDialog1 As System.Windows.Forms.SaveFileDialog
+    ReadOnly Property gewählt() As Short
+        Get
+            Return wahl
+        End Get
+    End Property
+    Public WithEvents bkontext As ContextMenuStrip
+    Public Sub New()
+        Me.bkontext = New System.Windows.Forms.ContextMenuStrip
+        Notizen.Baum.LabelEdit = False
+        Me.ContextMenuStrip = bkontext
+        Me.ContextMenuStrip.Items.Add("Neu")
+        Me.ContextMenuStrip.Items.Add("Umbenennen")
+        Me.ContextMenuStrip.Items.Add("Löschen")
+        Me.ContextMenuStrip.Items.Add("Extern speichern")
+    End Sub
+    Public Sub zeige(ByRef e As System.Windows.Forms.TreeNodeMouseClickEventArgs)
+        Me.bkontext.Show(e.X + Notizen.Location.X, e.Y + Notizen.Location.Y)
+
+    End Sub
+    Dim level As Short
+    Dim index As Short
+
+    Private Sub bkontext_wahl(ByVal sender As Object, ByVal e As System.Windows.Forms.ToolStripDropDownClosingEventArgs) Handles bkontext.Closing
+        If e.CloseReason = 2 Then
+            If bkontext.Items.Item(0).Selected = True Then
+                wahl = 0
+                'setzt eins drunter, aber editiert aktuelles
+
+                Notizen.element_dazu()
+            ElseIf bkontext.Items.Item(1).Selected = True Then
+                wahl = 1
+                If Notizen.Baum.SelectedNode.IsEditing = False Then
+                    Notizen.Baum.LabelEdit = True
+                    Notizen.Baum.SelectedNode.BeginEdit()
+                End If
+
+            ElseIf bkontext.Items.Item(2).Selected = True Then
+                wahl = 2
+                Notizen.Baum.SelectedNode.Remove()
+            ElseIf bkontext.Items.Item(3).Selected = True Then
+                wahl = 3
+                SaveFileDialog1 = New SaveFileDialog
+                SaveFileDialog1.Filter = "txt Dateien|*.txt"
+                SaveFileDialog1.DefaultExt = "*.txt"
+                SaveFileDialog1.InitialDirectory = Notizen.odatei.Verzeichnis
+                SaveFileDialog1.FileName = "unbenannt.txt"
+                Dim bclick As DialogResult = SaveFileDialog1.ShowDialog()
+                If bclick = DialogResult.OK Then
+                    Try
+                        Dim datenstrom As New System.IO.FileStream(SaveFileDialog1.FileName, IO.FileMode.Create, IO.FileAccess.Write)
+                        Dim schreiber As New System.IO.StreamWriter(datenstrom)
+                        Dim ospeichern As New dateiarbeit.speichern
+                        schreiber.Write(Notizen.last_node_clicked.Tag.text)
+                        schreiber.Close()
+                    Catch ex As Exception
+                        Dim fehler As Error_Dialog = New Error_Dialog(ex)
+                        fehler.Show()
+                    End Try
+                End If
+                bkontext.Close()
+            End If
+            End If
+    End Sub
+
+    Private Sub InitializeComponent()
+        Me.SaveFileDialog1 = New System.Windows.Forms.SaveFileDialog
+        Me.SuspendLayout()
+        '
+        'baum_kontext
+        '
+        Me.ClientSize = New System.Drawing.Size(292, 273)
+        Me.Name = "baum_kontext"
+        Me.ResumeLayout(False)
+
+    End Sub
+
+   
+End Class

@@ -1,0 +1,313 @@
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Notizen.exe.config
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Notizen.exe.manifest
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Notizen.application
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Notizen.exe
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Notizen.pdb
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Notizen.xml
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\af\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\ar-BH\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\ar-DZ\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\ar-EG\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\de-DE\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\de\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\en\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\zh-CHS\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.BaumTyp.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.einstellungen.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.Notizen.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.desknote.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.suche.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.wanna_restart.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.wanna_save.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.Resources.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.Notizen.af.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.Notizen.ar-BH.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.Notizen.ar-DZ.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.Notizen.ar-EG.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.Notizen.de-DE.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.Notizen.de.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.Notizen.en.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.Notizen.zh-CHS.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.vbproj.GenerateResource.Cache
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\af\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\ar-BH\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\ar-DZ\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\ar-EG\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\de-DE\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\de\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\en\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\zh-CHS\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.TrustInfo.xml
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.exe.manifest
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.application
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.exe
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.xml
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Notizen.pdb
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.exe.config
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.exe.manifest
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.application
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.exe
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.pdb
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.xml
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\af\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\ar-BH\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\ar-DZ\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\ar-EG\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\de-DE\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\de\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\en\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\zh-CHS\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\ResolveAssemblyReference.cache
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.BaumTyp.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.einstellungen.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.desknote.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.suche.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.wanna_restart.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.wanna_save.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Resources.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.af.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.ar-BH.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.ar-DZ.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.ar-EG.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.de-DE.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.de.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.en.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.zh-CHS.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.vbproj.GenerateResource.Cache
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\af\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\ar-BH\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\ar-DZ\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\ar-EG\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\de-DE\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\de\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\en\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\zh-CHS\Notizen.resources.dll
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.TrustInfo.xml
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.exe.manifest
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.application
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.exe
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.xml
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.pdb
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.AboutBox1.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.passwort_dialog.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.passwort_dialog2.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.kontext_inhalt.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.exe.config
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.exe.manifest
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.application
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.exe
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.pdb
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.xml
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\af\Notizen.resources.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\ar-BH\Notizen.resources.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\ar-DZ\Notizen.resources.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\ar-EG\Notizen.resources.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\de-DE\Notizen.resources.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\de\Notizen.resources.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\en\Notizen.resources.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\zh-CHS\Notizen.resources.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\ResolveAssemblyReference.cache
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.AboutBox1.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.BaumTyp.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.einstellungen.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.kontext_inhalt.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.desknote.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.passwort_dialog.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.passwort_dialog2.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.suche.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.wanna_restart.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.wanna_save.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Resources.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.af.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.ar-BH.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.ar-DZ.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.ar-EG.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.de-DE.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.de.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.en.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.zh-CHS.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.vbproj.GenerateResource.Cache
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\af\Notizen.resources.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\ar-BH\Notizen.resources.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\ar-DZ\Notizen.resources.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\ar-EG\Notizen.resources.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\de-DE\Notizen.resources.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\de\Notizen.resources.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\en\Notizen.resources.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\zh-CHS\Notizen.resources.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.TrustInfo.xml
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.exe.manifest
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.application
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.exe
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.xml
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.pdb
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.desknote_kontext.resources
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Interop.Shell32.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Interop.Shell32.dll
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.vbproj.ResolveComReference.cache
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.exe.config
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.exe.manifest
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.application
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.exe
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.pdb
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.xml
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\af\Notizen.resources.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\ar-BH\Notizen.resources.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\ar-DZ\Notizen.resources.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\ar-EG\Notizen.resources.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\de-DE\Notizen.resources.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\de\Notizen.resources.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\en\Notizen.resources.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\zh-CHS\Notizen.resources.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Interop.Shell32.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\ResolveAssemblyReference.cache
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Interop.Shell32.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.vbproj.ResolveComReference.cache
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.AboutBox1.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.BaumTyp.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.desknote_kontext.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.einstellungen.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.kontext_inhalt.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.desknote.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.passwort_dialog.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.passwort_dialog2.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.suche.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.wanna_restart.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.wanna_save.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Resources.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.af.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.ar-BH.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.ar-DZ.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.ar-EG.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.de-DE.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.de.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.en.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.zh-CHS.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.vbproj.GenerateResource.Cache
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\af\Notizen.resources.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\ar-BH\Notizen.resources.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\ar-DZ\Notizen.resources.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\ar-EG\Notizen.resources.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\de-DE\Notizen.resources.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\de\Notizen.resources.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\en\Notizen.resources.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\zh-CHS\Notizen.resources.dll
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.TrustInfo.xml
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.exe.manifest
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.application
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.exe
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.xml
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.pdb
+E:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.wecker.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.wecker.resources
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.ftpkram.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.exe.config
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.exe.manifest
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.application
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.exe
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.pdb
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\Notizen.xml
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\af\Notizen.resources.dll
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\ar-BH\Notizen.resources.dll
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\ar-DZ\Notizen.resources.dll
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\ar-EG\Notizen.resources.dll
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\de-DE\Notizen.resources.dll
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\de\Notizen.resources.dll
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\en\Notizen.resources.dll
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\bin\Debug\zh-CHS\Notizen.resources.dll
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.BaumTyp.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.desknote_kontext.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.einstellungen.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.ftpkram.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.kontext_inhalt.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.desknote.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.passwort_dialog.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.passwort_dialog2.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.suche.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.wecker.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.wanna_restart.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.wanna_save.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Resources.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.af.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.ar-BH.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.ar-DZ.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.ar-EG.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.de-DE.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.de.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.en.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.zh-CHS.resources
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.vbproj.GenerateResource.Cache
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\af\Notizen.resources.dll
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\ar-BH\Notizen.resources.dll
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\ar-DZ\Notizen.resources.dll
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\ar-EG\Notizen.resources.dll
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\de-DE\Notizen.resources.dll
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\de\Notizen.resources.dll
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\en\Notizen.resources.dll
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\zh-CHS\Notizen.resources.dll
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.TrustInfo.xml
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.exe.manifest
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.application
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.exe
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.xml
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.pdb
+C:\Users\xander\Documents\Visual Studio 2008\Projects\Notizen\Notizen\obj\Debug\Notizen.info_help_and_feedback.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\bin\Debug\Notizen.exe.config
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\bin\Debug\Notizen.exe.manifest
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\bin\Debug\Notizen.application
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\bin\Debug\Notizen.exe
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\bin\Debug\Notizen.pdb
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\bin\Debug\Notizen.xml
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\bin\Debug\af\Notizen.resources.dll
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\bin\Debug\ar-BH\Notizen.resources.dll
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\bin\Debug\ar-DZ\Notizen.resources.dll
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\bin\Debug\ar-EG\Notizen.resources.dll
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\bin\Debug\de-DE\Notizen.resources.dll
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\bin\Debug\de\Notizen.resources.dll
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\bin\Debug\en\Notizen.resources.dll
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\bin\Debug\zh-CHS\Notizen.resources.dll
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.info_help_and_feedback.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.BaumTyp.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.desknote_kontext.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.einstellungen.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.ftpkram.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.kontext_inhalt.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.desknote.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.passwort_dialog.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.passwort_dialog2.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.suche.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.wecker.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.wanna_restart.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.wanna_save.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.Resources.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.af.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.ar-BH.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.ar-DZ.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.ar-EG.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.de-DE.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.de.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.en.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.Notizen.zh-CHS.resources
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.vbproj.GenerateResource.Cache
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\af\Notizen.resources.dll
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\ar-BH\Notizen.resources.dll
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\ar-DZ\Notizen.resources.dll
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\ar-EG\Notizen.resources.dll
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\de-DE\Notizen.resources.dll
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\de\Notizen.resources.dll
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\en\Notizen.resources.dll
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\zh-CHS\Notizen.resources.dll
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.TrustInfo.xml
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.exe.manifest
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.application
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.exe
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.xml
+C:\Users\xander\Desktop\Projects\Notizen\Notizen\obj\Debug\Notizen.pdb
